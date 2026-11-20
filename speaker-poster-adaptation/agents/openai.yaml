@@ -1,0 +1,4 @@
+interface:
+  display_name: "人物修图与海报延展"
+  short_description: "整合批量人物修图、议程核对、胸像裁剪和可编辑海报制作，逐张验收后交付 PSD 与 PNG"
+  default_prompt: "使用 $speaker-poster-adaptation，按项目中的模板和议程表批量处理人物照片并延展单人海报，逐张检查后输出可编辑 PSD 和 PNG。"
